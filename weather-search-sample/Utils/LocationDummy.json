@@ -1,0 +1,84 @@
+/* 
+  LocationDummy.strings
+  weather-search-sample
+
+  Created by 김지수 on 2020/12/22.
+  
+*/
+
+
+[
+    {
+        "title":"Seoul",
+        "location_type":"City",
+        "woeid":1132599,
+        "latt_long":"37.557121,126.977379"
+    },
+    {
+        "title":"San Jose",
+        "location_type":"City",
+        "woeid":2488042,
+        "latt_long":"37.338581,-121.885567"
+    },
+    {
+        "title":"Seattle",
+        "location_type":"City",
+        "woeid":2490383,
+        "latt_long":"47.603561,-122.329437"
+    },
+    {
+        "title":"Brussels",
+        "location_type":"City",
+        "woeid":968019,
+        "latt_long":"50.848381,4.349680"
+    },
+    {
+        "title":"Boise",
+        "location_type":"City",
+        "woeid":2366355,
+        "latt_long":"43.606979,-116.193413"
+    },
+    {
+        "title":"Toulouse",
+        "location_type":"City",
+        "woeid":628886,
+        "latt_long":"43.605728,1.448690"
+    },
+    {
+        "title":"Marseille",
+        "location_type":"City",
+        "woeid":610264,
+        "latt_long":"43.293701,5.372470"
+    },
+    {
+        "title":"Sendai",
+        "location_type":"City",
+        "woeid":1118129,
+        "latt_long":"38.314362,140.758194"
+    },
+    {
+        "title":"Essen",
+        "location_type":"City",
+        "woeid":648820,
+        "latt_long":"51.451809,7.0106"
+    },
+    {
+        "title":"Southend-on-Sea",
+        "location_type":"City",
+        "woeid":35375,
+        "latt_long":"51.548328,0.706400"
+    },
+    {
+        "title":"Swansea",
+        "location_type":"City",
+        "woeid":36758,
+        "latt_long":"51.623150,-3.940930"
+    },
+    {
+        "title":"Düsseldorf",
+        "location_type":"City",
+        "woeid":646099,
+        "latt_long":"51.215630,6.776040"
+    }
+]
+

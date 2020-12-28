@@ -1,0 +1,188 @@
+/* 
+  WeatherDummy.strings
+  weather-search-sample
+
+  Created by 김지수 on 2020/12/22.
+  
+*/
+
+
+{
+    "time":"2020-12-22T12:11:04.172087+09:00",
+    "sun_rise":"2020-12-22T07:44:07.103865+09:00",
+    "sun_set":"2020-12-22T17:17:47.144162+09:00",
+    "timezone_name":"LMT",
+    "title":"Seoul",
+    "location_type":"City",
+    "woeid":1132599,
+    "latt_long":"37.557121,126.977379",
+    "timezone":"Asia/Seoul",
+    "parent":{
+        "title":"South Korea",
+        "location_type":"Country",
+        "woeid":23424868,
+        "latt_long":"36.448151,127.850166"
+        
+    },
+    "consolidated_weather": [
+        {
+            "id":6641945364398080,
+            "weather_state_name":"Light Cloud",
+            "weather_state_abbr":"lc",
+            "wind_direction_compass":"SSE",
+            "created":"2020-12-22T00:30:37.561204Z",
+            "applicable_date":"2020-12-22",
+            "min_temp":-2.36,
+            "max_temp":4.845000000000001,
+            "the_temp":4.08,
+            "wind_speed":2.420350919563085,
+            "wind_direction":158.49817989494707,
+            "air_pressure":1026.0,
+            "humidity":66,
+            "visibility":13.540921021235981,
+            "predictability":70
+            
+        },
+        {
+            "id":5965875971620864,
+            "weather_state_name":"Light Cloud",
+            "weather_state_abbr":"lc",
+            "wind_direction_compass":"SW",
+            "created":"2020-12-22T00:30:40.547075Z",
+            "applicable_date":"2020-12-23",
+            "min_temp":-1.1,
+            "max_temp":5.71,
+            "the_temp":4.1899999999999995,
+            "wind_speed":4.690001565805033,
+            "wind_direction":217.04673307334275,
+            "air_pressure":1022.5,
+            "humidity":73,
+            "visibility":13.135476318301121,
+            "predictability":70
+            
+        },
+        {
+            "id":5502672338681856,
+            "weather_state_name":"Light Cloud",
+            "weather_state_abbr":"lc",
+            "wind_direction_compass":"W",
+            "created":"2020-12-22T00:30:43.546569Z",
+            "applicable_date":"2020-12-24",
+            "min_temp":-2.2399999999999998,
+            "max_temp":3.965,
+            "the_temp":5.45,
+            "wind_speed":4.846656091590446,
+            "wind_direction":264.614576571393,
+            "air_pressure":1023.0,
+            "humidity":67,
+            "visibility":12.981065577030144,
+            "predictability":70
+            
+        },
+        {
+            "id":5956734066622464,
+            "weather_state_name":"Light Cloud",
+            "weather_state_abbr":"lc",
+            "wind_direction_compass":"W",
+            "created":"2020-12-22T00:30:46.545296Z",
+            "applicable_date":"2020-12-25",
+            "min_temp":-2.24,
+            "max_temp":4.545,
+            "the_temp":3.95,
+            "wind_speed":4.546058539187147,
+            "wind_direction":279.0737340103365,
+            "air_pressure":1021.5,
+            "humidity":59,
+            "visibility":13.530047025371829,
+            "predictability":70
+            
+        },
+        {
+            "id":4910342929907712,
+            "weather_state_name":"Heavy Cloud",
+            "weather_state_abbr":"hc",
+            "wind_direction_compass":"E",
+            "created":"2020-12-22T00:30:49.581915Z",
+            "applicable_date":"2020-12-26",
+            "min_temp":-2.075,
+            "max_temp":5.165,
+            "the_temp":3.635,
+            "wind_speed":3.6351691122617247,
+            "wind_direction":99.80710075064401,
+            "air_pressure":1021.5,
+            "humidity":61,
+            "visibility":13.994832677165354,
+            "predictability":71
+            
+        },
+        {
+            "id":4958264765710336,
+            "weather_state_name":"Showers",
+            "weather_state_abbr":"s",
+            "wind_direction_compass":"SSE",
+            "created":"2020-12-22T00:30:52.813665Z",
+            "applicable_date":"2020-12-27",
+            "min_temp":0.08999999999999997,
+            "max_temp":7.045,
+            "the_temp":4.83,
+            "wind_speed":2.404959834566134,
+            "wind_direction":150.5,
+            "air_pressure":1021.0,
+            "humidity":76,
+            "visibility":6.746848405312972,
+            "predictability":73
+            
+        }
+    ],
+    "sources":[
+        {
+            "title":"BBC",
+            "slug":"bbc",
+            "url":"http://www.bbc.co.uk/weather/",
+            "crawl_rate":360
+            
+        },
+        {
+            "title":"Forecast.io",
+            "slug":"forecast-io",
+            "url":"http://forecast.io/","crawl_rate":480
+            
+        },
+        {
+            "title":"HAMweather",
+            "slug":"hamweather",
+            "url":"http://www.hamweather.com/",
+            "crawl_rate":360
+            
+        },
+        {
+            "title":"Met Office",
+            "slug":"met-office",
+            "url":"http://www.metoffice.gov.uk/",
+            "crawl_rate":180
+            
+        },
+        {
+            "title":"OpenWeatherMap",
+            "slug":"openweathermap",
+            "url":"http://openweathermap.org/",
+            "crawl_rate":360
+            
+        },
+        {
+            "title":"Weather Underground",
+            "slug":"wunderground",
+            "url":"https://www.wunderground.com/?apiref=fc30dc3cd224e19b",
+            "crawl_rate":720
+            
+        },
+        {
+            "title":"World Weather Online",
+            "slug":"world-weather-online",
+            "url":"http://www.worldweatheronline.com/",
+            "crawl_rate":360
+            
+        }
+    ]
+}
+
